@@ -1,6 +1,6 @@
 # The Alipsa Analytical Suite of tools
 
-The goal of the Alipsa Analytical Suite of tools (https://github.com/orgs/Alipsa/repositories) aims to provide a complete, open source, analytics and data science suite for the Java Virtual Machine that is powerful and yet intuitive and delightful to use.
+The goal of the [Alipsa Analytical Suite of tools](https://github.com/orgs/Alipsa/repositories) aims to provide a complete, open source, analytics and data science suite for the Java Virtual Machine that is powerful and yet intuitive and delightful to use.
 
 It supports the ingestion of data in various formats, transforming that data into structured information in the form of intuitive data structures that are easy to visualize and work with. That transformation can then be transformed into knowledge with the help of powerful statistical methods, artificial intelligence, and graphical visualizations all done in a beautiful and powerful integrated development environment.
 
